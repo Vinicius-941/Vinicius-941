@@ -24,6 +24,12 @@ Financial transaction anomaly detector built with Python and Streamlit.
 
 [View repository](https://github.com/Vinicius-941/fada)
 
+### Managment System - DML Contabilidade
+
+Managment System built for databases class from my college using as sample the enterprise DML Contabilidade 
+
+[View Repository](https://github.com/GLope-ui/sistema-gestao-dml-contabilidade)
+
 ## Tech Stack
 
 Python · Pandas · Streamlit · Plotly · Pytest · C++ · HTML · CSS · Lua · GML
