@@ -26,7 +26,12 @@ Financial transaction anomaly detector built with Python and Streamlit.
 
 ### Managment System - DML Contabilidade
 
-Managment System built for databases class from my college using as sample the enterprise DML Contabilidade 
+Data Managment System built for databases class from my college using as sample the enterprise DML Contabilidade.
+
+#### It contains:
+
+- Entity Relationship Diagram.
+- Entity Relationship Model.
 
 [View Repository](https://github.com/GLope-ui/sistema-gestao-dml-contabilidade)
 
