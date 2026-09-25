@@ -28,7 +28,7 @@ Financial transaction anomaly detector built with Python and Streamlit.
 
 Data Managment System built for databases class from my college using as sample the enterprise DML Contabilidade.
 
-#### It contains:
+It contains:
 
 - Entity Relationship Diagram.
 - Entity Relationship Model.
